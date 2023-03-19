@@ -1,0 +1,31 @@
+{
+  "name": "pink-dream",
+  "displayName": "Pink dream",
+  "description": "\"Pink dream\" is a pink theme made with a lot of love <3",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "cat-icon.jpg",
+  "author": {
+    "name": "Sara Sánchez",
+    "email": "sara.sanchez.g29@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/SaraSanGar/pink-dream.git",
+    "type": "git"
+  },
+  "publisher": "codigo-tecsup",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink dream <3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink dream 3-color-theme.json"
+      }
+    ]
+  }
+}
