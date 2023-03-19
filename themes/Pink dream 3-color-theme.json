@@ -249,7 +249,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#790f26"
+				"foreground": "#c872eb"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#790f26"
+				"foreground": "#913db3"
 			}
 		},
 		{
@@ -362,7 +362,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#790f26"
+				"foreground": "#f7c3e6"
 			}
 		},
 		{
