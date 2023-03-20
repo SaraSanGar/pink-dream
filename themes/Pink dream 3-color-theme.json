@@ -4,7 +4,11 @@
 		"editor.background": "#362a34",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#ff75ca",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.background": "#ff75ca",
+		"statusBar.noFolderBackground": "#ff75ca",
+		"statusBar.debuggingBackground": "#ff75ca"
+
 	},
 	"tokenColors": [
 		{
@@ -537,7 +541,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#EA98B4"
 			}
 		},
 		{
